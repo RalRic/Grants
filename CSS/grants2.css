@@ -18,7 +18,7 @@ body{
 
 }
 .JumboCHC{
-    background-image: url(/imgs/img_content/jumbo.jpg);
+    background-image: url(imgs/img_content/jumbo.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
